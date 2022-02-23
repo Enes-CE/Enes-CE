@@ -2,9 +2,7 @@
 <h3 align="center">Python Developer</h3>
 
 - 🔭 I’m currently working on **Detaysoft**
-
 - 📝 Personal Portfolio [ibrahimenesulusoy.com](ibrahimenesulusoy.com)  
-
 - 📫 How to reach me **c.enes.eng@gmail.com**
 ![Alt Text](https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e473ipt3a00jet4xqne66szb5wn8cr5dt09uy5x6zww&rid=giphy.gif&ct=g)
 
