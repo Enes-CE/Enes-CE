@@ -9,6 +9,9 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Enes-CE?style=social">
 
+<img src="https://mograph.video/2HwFiEL/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/e_enesulusoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="e_enesulusoy" height="30" width="40" /></a>
