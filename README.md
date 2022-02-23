@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm İBRAHİM ENES ULUSOY</h1>
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Enes-CE?style=social">
-
 <h3 align="center">Python Developer</h3>
 
 - 🔭 I’m currently working on **Detaysoft**
@@ -9,6 +6,8 @@
 - 📝 Personal Portfolio [ibrahimenesulusoy.com](ibrahimenesulusoy.com)
 
 - 📫 How to reach me **c.enes.eng@gmail.com**
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Enes-CE?style=social">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
