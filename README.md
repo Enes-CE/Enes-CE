@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm İBRAHİM ENES ULUSOY</h1>
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Enes-CE?style=social">
+
 <h3 align="center">Python Developer</h3>
 
 - 🔭 I’m currently working on **Detaysoft**
@@ -25,4 +28,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-CE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Enes-CE?style=social">
