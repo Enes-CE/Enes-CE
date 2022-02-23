@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm İBRAHİM ENES ULUSOY</h1>
-https://img.shields.io/github/followers/Enes-CE?style=social
-
 <h3 align="center">Python Developer</h3>
 
 - 🔭 I’m currently working on **Detaysoft**
@@ -26,3 +24,6 @@ https://img.shields.io/github/followers/Enes-CE?style=social
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enes-CE&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-CE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+https://img.shields.io/github/followers/Enes-CE?style=social
+
