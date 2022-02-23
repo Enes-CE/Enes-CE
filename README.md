@@ -18,4 +18,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enes-CE&show_icons=true&theme=vue)
 
-![ibrahimenesulusoy.com]({https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white})
+![image]({https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white})
