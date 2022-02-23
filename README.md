@@ -1,6 +1,6 @@
-[![Header](https://raw.githubusercontent.com/Enes-CE/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
 <h1 align="center">Hi 👋, I'm İBRAHİM ENES ULUSOY</h1>
+https://img.shields.io/github/followers/Enes-CE?style=social
+
 <h3 align="center">Python Developer</h3>
 
 - 🔭 I’m currently working on **Detaysoft**
