@@ -23,5 +23,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enes-CE&show_icons=true&theme=radical)
 
-![image]({https://github-readme-stats.vercel.app/api/top-langs/?username={Enes-CE}})
-
+![image]({BadgeURLHere})https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
