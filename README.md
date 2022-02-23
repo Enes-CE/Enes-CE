@@ -6,10 +6,9 @@
 - 📝 Personal Portfolio [ibrahimenesulusoy.com](ibrahimenesulusoy.com)  
 
 - 📫 How to reach me **c.enes.eng@gmail.com**
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Enes-CE?style=social"> 
 ![Alt Text](https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e473ipt3a00jet4xqne66szb5wn8cr5dt09uy5x6zww&rid=giphy.gif&ct=g)
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Enes-CE?style=social"> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/e_enesulusoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="e_enesulusoy" height="30" width="40" /></a>
