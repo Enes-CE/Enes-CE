@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Detaysoft**
 
-- 👨‍💻 All of my projects are available at [ibrahimenesulusoy.com](ibrahimenesulusoy.com)
+- 📝 Personal Portfolio [ibrahimenesulusoy.com](ibrahimenesulusoy.com)
 
 - 📫 How to reach me **c.enes.eng@gmail.com**
 
