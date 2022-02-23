@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm İBRAHİM ENES ULUSOY</h1>
 <h3 align="center">Python Developer</h3>
 
+- 🔭 I’m currently working on **Detaysoft**
+
+- 👨‍💻 All of my projects are available at [ibrahimenesulusoy.com](ibrahimenesulusoy.com)
+
+- 📫 How to reach me **c.enes.eng@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/e_enesulusoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="e_enesulusoy" height="30" width="40" /></a>
