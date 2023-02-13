@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm I'm İBRAHİM ENES ULUSOY</h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=The Artifical Intelligence"></a>
-</p>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=How+about+a+data+journey+🚀;Artificial+Intelligence+Engineer;MSc+in+Data+Science;Algorithmic+Trader"></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enes-ce&label=Profile%20views&color=c01b1b&style=flat" alt="enes-ce" /> </p>
 
