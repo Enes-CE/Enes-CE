@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm I'm İBRAHİM ENES ULUSOY</h1>
-<h3 align="center">The Intelligence Effect</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enes-ce&label=Profile%20views&color=c01b1b&style=flat" alt="enes-ce" /> </p>
 
