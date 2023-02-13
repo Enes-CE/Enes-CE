@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enes-ce&label=Profile%20views&color=c01b1b&style=flat" alt="enes-ce" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enes-ce" alt="enes-ce" /></a> </p>
 
 - 🔭 I’m currently working on **Detaysoft**
 
@@ -40,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enes-ce&show_icons=true&theme=dark&locale=en" alt="enes-ce" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enes-ce&theme=dark" alt="enes-ce" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enes-ce" alt="enes-ce" /></a> </p>
