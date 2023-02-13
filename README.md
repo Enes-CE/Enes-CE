@@ -2,7 +2,8 @@
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=The+Artifical+Intelligence+🤖;Data+Science+🚀"></a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enes-ce&label=Profile%20views&color=c01b1b&style=flat" alt="enes-ce" /> </p>
+<h4 align="center">Visitor's Count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Enes-CE}/count.svg"/></p>
 
 
 - 🔭 I’m currently working on **Detaysoft**
