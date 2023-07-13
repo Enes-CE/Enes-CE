@@ -5,9 +5,6 @@
 <h4 align="center">Visitor's Count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Enes-CE}/count.svg"/></p>
 
-
-- 🔭 I’m currently working on **Detaysoft**
-
 - 🌱 I’m currently learning **Python, Data Science, Machine and Deep Learning, Computer Vision, SQL**
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/brahimenesulusoy](https://www.kaggle.com/brahimenesulusoy)
