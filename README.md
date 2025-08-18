@@ -2,9 +2,6 @@
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=The+Artifical+Intelligence+🤖;Data+Science+🚀"></a></p>
 
-<h4 align="center">Visitor's Count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{Enes-CE}/count.svg"/></p>
-
 - 🌱 I’m currently learning **Python, Data Science, Machine and Deep Learning, Computer Vision, SQL**
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/brahimenesulusoy](https://www.kaggle.com/brahimenesulusoy)
