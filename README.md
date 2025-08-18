@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=The+Artifical+Intelligence+🤖;Data+Science+🚀"></a></p>
 
-- 🌱 I’m currently learning **Python, Data Science, Machine and Deep Learning, Computer Vision, SQL**
+- 🌱 Experienced and passionate about Python, data science, machine learning and computer vision. There are projects that constantly improve themselves in these areas through various bootcamps and develop various projects in these areas and are still developing. I am constantly improving my skills in AI technologies and follow the latest trends in this field.
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/brahimenesulusoy](https://www.kaggle.com/brahimenesulusoy)
 
