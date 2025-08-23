@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **c.enes.eng@gmail.com**
 
-- 📄 Personal portfolio [ibrahimenesulusoy.com](ibrahimenesulusoy.com)
+- 📄 Personal portfolio [ibrahimenesulusoy.com](https://enesulusoy-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
